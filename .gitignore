@@ -1,0 +1,5 @@
+#virtual env 
+ner_env/
+
+#Model
+wiki-ner-finetuned/
